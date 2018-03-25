@@ -32,5 +32,9 @@ public class SepatuAksi {
         C.Ukuran="40";
         C.Jenis_Sepatu="Slip On";
         C.Warna="Brown";
+        
+        A.cetakInfo();
+        B.cetakInfo();
+        C.cetakInfo();
     }
 }
