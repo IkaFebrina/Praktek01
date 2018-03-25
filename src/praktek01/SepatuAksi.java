@@ -34,7 +34,9 @@ public class SepatuAksi {
         C.Warna="Brown";
         
         A.cetakInfo();
+        System.out.println();
         B.cetakInfo();
+        System.out.println();
         C.cetakInfo();
     }
 }
