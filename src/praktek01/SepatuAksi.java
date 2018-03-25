@@ -14,5 +14,23 @@ public class SepatuAksi {
         Sepatu A = new Sepatu();
         Sepatu B = new Sepatu();
         Sepatu C = new Sepatu();
+        
+        A.Merk="Nike";
+        A.Bahan_Sepatu="Suede";
+        A.Ukuran="43";
+        A.Jenis_Sepatu="Sport";
+        A.Warna="Grey";
+        
+        B.Merk="Converse";
+        B.Bahan_Sepatu="Canvas";
+        B.Ukuran="39";
+        B.Jenis_Sepatu="Sneakers";
+        B.Warna="Black";
+        
+        C.Merk="Wakaii";
+        C.Bahan_Sepatu="Canvas";
+        C.Ukuran="40";
+        C.Jenis_Sepatu="Slip On";
+        C.Warna="Brown";
     }
 }
